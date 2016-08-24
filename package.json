@@ -76,6 +76,7 @@
     "wcag": "^0.2.2"
   },
   "dependencies": {
+    "atomic-component": "github:contolini/AtomicComponent",
     "box-sizing-polyfill": "0.1.0",
     "jquery": "~1.11.0",
     "jquery.easing": "~1.3.0",
